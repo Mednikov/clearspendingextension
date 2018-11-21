@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "ГосЗатраты",
+  "description": "Расширение, позволяющее при открытии сайта госзаказчика получать информацию о его контрактах и базовые данные об организации.",
+  "version": "1.0",
+  "homepage_url": "https://clearspending.ru",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "96": "icons/icon96.png",
+    "128": "icons/icon128.png",
+    "192": "icons/icon192.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/icon32.png",
+    "theme_icons": [{
+        "light": "icons/icon32.png",
+        "dark": "icons/icon32-dark.png",
+        "size": 32
+    }],
+    "default_title": "ГосЗатраты",
+    "default_popup": "popup/clearspending.html"
+  }
+
+}

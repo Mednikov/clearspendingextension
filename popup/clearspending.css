@@ -1,0 +1,6 @@
+html, body { font-size: 13px; width: 400px; min-height:80px; padding:0; margin:0; overflow-y: hidden;}
+.bg-clsp{background-color: #1d70b8!important ;}
+.navbar-brand{margin: 0 auto;}
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover{
+  background-color: transparent!important;
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "name": "ГБУ РА \"Гиагинский КЦСОН\"",
+    "type": "Бюджетное учреждение",
+    "address": "Российская Федерация, 385601, Адыгея Респ, Гиагинский р-н, Гиагинская ст-ца, ул Советская, 29",
+    "inn": "0101010011",
+    "kpp": "010101001",
+    "spz": "03762000074",
+    "site": "giadom.mintrud01.ru",
+    "contracts": {
+      "amount": "13",
+      "sum": "1 708 118"
+    },
+    "suppliers": {
+      "amount": "8"
+    }
+  },
+  {
+    "kpp": "010101001",
+    "site": "дотех.рф"
+  },
+  {
+    "kpp": "010101001",
+    "site": "redflag.ucoz.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "giagcrb.ucoz.ru"
+  },
+  {
+    "name": "Гиагинская ДЮСШ",
+    "kpp": "010101001",
+    "site": "dyussh.pascal.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "giagdshi.adg.muzkult.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "zanad.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "soschi.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "sosh9.pascal.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "sosh6.pascal.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "giagcdt.pascal.ru"
+  },
+  {
+    "kpp": "010101001",
+    "site": "sosh12.pascal.ru"
+  }
+]
