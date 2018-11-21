@@ -2,9 +2,15 @@
 
 ## Установка в chrome
 
-[chrome://extensions/](chrome://extensions/)
+- Перейти на [chrome://extensions/](chrome://extensions/)
+- Включить «Режим разработчика»
+- «Загрузить распакованное расширение»
+- Выбрать папку расширения
 
 
 ## Установка в firefox
 
-[about:debugging](about:debugging)
+- Перейти на [about:debugging](about:debugging)
+- Вкладка «Дополнения»
+- «Загрузить временное дополнение»
+- Выбрать файл `manifest.json` в папке проекта
